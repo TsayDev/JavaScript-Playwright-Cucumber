@@ -1,0 +1,18 @@
+{
+  "name": "javascript-playwright-cucumber",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx cucumber-js"
+  },
+  "author": "Tsay",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.21.0",
+    "@cucumber/cucumber": "^9.0.1",
+    "@cucumber/pretty-formatter": "^1.0.0",
+    "@playwright/test": "^1.32.1",
+    "playwright": "^1.32.1"
+  }
+}
